@@ -1528,27 +1528,27 @@ Why Choose Us CSS
     z-index: 0;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
-    -webkit-animation: imageAnimation 24s linear infinite 0s;
-    animation: imageAnimation 24s linear infinite 0s;
+    -webkit-animation: imageAnimation 18s linear infinite 0s;
+    animation: imageAnimation 18s linear infinite 0s;
 }
+
+/* .why-choose-us .slideshow li:nth-child(1) span {
+    background-image: url(../../assets/img/slected-pics/fun.jpg);
+} */
 
 .why-choose-us .slideshow li:nth-child(1) span {
-    background-image: url(../../assets/img/slected-pics/fun.jpg);
-}
-
-.why-choose-us .slideshow li:nth-child(2) span {
     background-image: url(../../assets/img/slected-pics/great-speaker-1.JPG);
     -webkit-animation-delay: 6s;
     animation-delay: 6s;
 }
 
-.why-choose-us .slideshow li:nth-child(3) span {
+.why-choose-us .slideshow li:nth-child(2) span {
     background-image: url(../../assets/img/slected-pics/great\ speakers.jpeg);
     -webkit-animation-delay: 12s;
     animation-delay: 12s;
 }
 
-.why-choose-us .slideshow li:nth-child(4) span {
+.why-choose-us .slideshow li:nth-child(3) span {
     background-image: url(../../assets/img/slected-pics/networking.jpeg);
     -webkit-animation-delay: 18s;
     animation-delay: 18s;
